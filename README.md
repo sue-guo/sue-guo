@@ -7,11 +7,10 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, HTML, 
 <h3 align="left">Projects</h3>
 Here are some of the projects I've worked on:
 
-- [Project 1](link): Brief description.
+- [My Portfolio](https://github.com/sue-guo/my-portfolio): This is my portfolio website that I created using React. It showcases my projects, skills, and contact information..
 
-- [Project 2](link): Brief description.
+- [My blog](https://github.com/sue-guo/web-code.git): This is a blog website that I created using PHP. It allows users to create, edit, and delete posts.
 
-- [Project 3](link): Brief description.
 
 <h3 align="left">Get in Touch</h3>
 Feel free to reach out if you'd like to collaborate on projects or discuss anything related to web development!
