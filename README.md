@@ -1,3 +1,4 @@
+![Profile Banner](I'm Hongxiu Guo.png)
 <h1 align="center"> 👋Hello, I'm Hongxiu Guo (or call me Sue) 👋 </h1>
 I'm a passionate full-stack developer with expertise in Java, JavaScript, HTML, CSS, React, and PHP. I enjoy building web applications and solving complex problems using cutting-edge technologies. 
 
