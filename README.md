@@ -8,9 +8,11 @@
 <h3 align="left">Projects</h3>
 Here are some of the projects I've worked on:
 
-- [My Portfolio](https://github.com/sue-guo/my-portfolio): This is my portfolio website that I created using React. It showcases my projects, skills, and contact information..
+- [My Portfolio](https://github.com/sue-guo/my-portfolio): This is my portfolio website that I created using React. It showcases my projects, skills, and contact information.
 
 - [My blog](https://github.com/sue-guo/web-code.git): This is a blog website that I created using PHP. It allows users to create, edit, and delete posts.
+
+- [Facts Calendar](https://github.com/sue-guo/facts-calendar/): This is a project that I created using react to display Calendar, fetch facts from an API by date, and save or delete a fact in my favorite.
 
 
 <h3 align="left">Get in Touch</h3>
